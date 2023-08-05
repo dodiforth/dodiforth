@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=F05138&logoColor=F05138"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=F05138"/></a>
 <!--
 **dodiforth/dodiforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
