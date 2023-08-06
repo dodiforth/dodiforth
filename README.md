@@ -1,6 +1,6 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FC8019?style=flat&logo=Swift&logoColor=F05138"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/uikit-FFFFFF?style=plastic&logo=UIkit&logoColor=2396F3"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat&logo=Swift&logoColor=F05138"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/UIkit-FFFFFF?style=plastic&logo=UIkit&logoColor=2396F3"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodiforth&show_icons=true&theme=radical)
 
