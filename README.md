@@ -2,12 +2,10 @@
 
 📚 Languages & Library
 <br/>
-<br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat&logo=Swift&logoColor=F05138"/></a>
 <br/>
 <br/>
 🛠 Tools
-<br/>
 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF"/></a>
 
