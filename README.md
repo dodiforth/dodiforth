@@ -2,12 +2,12 @@
 
 📚 Languages & Library
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat&logo=Swift&logoColor=F05138"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 <br/>
 <br/>
 🛠 Tools
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodiforth&show_icons=true&theme=radical)
 
