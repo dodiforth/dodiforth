@@ -9,7 +9,7 @@ I enjoy building apps for a variaty reasons. Honestly the main reason is you can
 </br>
 I enjoy create things so I'd been a photographer and videographer once.
 </br>
-But it's magical to be able to build something on a computer building app and holding it, that feeling is next to nothing else.
+But it's magical to be able to build something on a computer building app and holding it, interact with it, that feeling is next to nothing else.
 
 🦾 Platfroms & Languages
 </br>
