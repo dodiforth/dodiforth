@@ -3,13 +3,13 @@
 I'm **mobile app developer** using mainly Swift for iOS platform.🚀
 
 🦾 Platfroms & Languages
-<br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=000000"/></a>
-<br/>
+</br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
+</br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
-<br/>
+</br>
 🛠️ Tools
-<br/>
+</br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sourecetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
