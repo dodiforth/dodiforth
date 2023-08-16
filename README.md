@@ -4,7 +4,7 @@ I'm **mobile app developer** using mainly Swift for iOS platform.🚀
 
 🦾 Platfroms & Languages
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=000000"/></a>
 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 <br/>
