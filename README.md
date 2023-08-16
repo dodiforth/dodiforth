@@ -3,7 +3,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
 ## Who am I ?! 
-I'm **mobile app developer** using mainly Swift for iOS platform.🚀
+I'm a **mobile app developer** using mainly Swift for iOS platform.🚀
 </br>
 I enjoy building apps for a variaty reasons. Honestly the main reason is you can just build something and hold it.
 </br>
