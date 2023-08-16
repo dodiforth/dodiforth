@@ -1,5 +1,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
-### Hi there 👋
+<a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
+## Hi there 👋
 I'm **mobile app developer** using mainly Swift for iOS platform.🚀
 
 🦾 Platfroms & Languages
@@ -7,6 +8,7 @@ I'm **mobile app developer** using mainly Swift for iOS platform.🚀
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
+</br>
 </br>
 🛠️ Tools
 </br>
