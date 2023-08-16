@@ -26,9 +26,6 @@ But it's magical to be able to build something on a computer building app and ho
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebse-FFCA28?style=flat-square&logo=Firebase&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iTerm2-06D6A9?style=flat-square&logo=iTerm2&logoColor=000000"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodiforth&show_icons=true&theme=radical)
-
-
 <!--
 **dodiforth/dodiforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
