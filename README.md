@@ -1,10 +1,10 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/yahoo-6001D2?style=flat-square&logo=dowoniscool@yahoo.com&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
 ### Hi there 👋
 I'm **mobile app developer** using mainly Swift for iOS platform.🚀
 
 🦾 Platfroms & Languages
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=F05138"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=000000"/></a>
 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 <br/>
