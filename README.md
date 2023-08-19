@@ -5,7 +5,7 @@
 ## Who am I ?! 
 I'm a **mobile app developer** using mainly Swift for iOS platform.🚀
 </br>
-I enjoy building apps for a variaty reasons. Honestly the main reason is you can just build something and hold it.
+I enjoy building apps for a variety of reasons. Honestly the main reason is you can just build something and hold it.
 </br>
 I enjoy create things so I'd been a photographer and videographer once.
 </br>
