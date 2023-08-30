@@ -13,7 +13,7 @@ But it's magical to be able to build something on a computer building app and ho
 
 🦾 Platfroms & Languages
 </br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-2396F3?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 </br>
