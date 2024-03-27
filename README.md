@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
 ## Who am I ?! 🚀
 </br>
-I enjoy building apps for a variety of reasons. Honestly the main reason is you can just build something and hold it.
+Day time dishwasher & night time developer 🧑🏻‍💻
 </br>
-I enjoy create things so I'd been a photographer and videographer once.
+I enjoy create things.
 </br>
-But it's magical to be able to build something on a computer building app and holding it, interact with it, that feeling is next to nothing else.
+Interested in developing iOS native environment but also in Dart with Flutter 🕊️
 
 🦾 Platfroms & Languages & Framework
 </br>
@@ -16,7 +16,6 @@ But it's magical to be able to build something on a computer building app and ho
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/></a>
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-2396F3?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
-</br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 </br>
 🛠️ Tools
