@@ -10,11 +10,13 @@ I enjoy create things so I'd been a photographer and videographer once.
 </br>
 But it's magical to be able to build something on a computer building app and holding it, interact with it, that feeling is next to nothing else.
 
-🦾 Platfroms & Languages
+🦾 Platfroms & Languages & Framework
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-2396F3?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
+</br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=FFFFFF"/></a>
 </br>
 </br>
 🛠️ Tools
