@@ -22,7 +22,7 @@ But it's magical to be able to build something on a computer building app and ho
 </br>
 🛠️ Tools
 </br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VScode&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=VScode&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sourecetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
