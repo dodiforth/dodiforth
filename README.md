@@ -21,9 +21,9 @@ Interested in developing iOS native environment but also in Dart with Flutter �
 </br>
 🛠️ Tools
 </br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sourecetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iTerm2-06D6A9?style=flat-square&logo=iTerm2&logoColor=000000"/></a>
