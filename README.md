@@ -12,8 +12,8 @@ Interested in developing iOS native environment but also in Dart with Flutter ğŸ
 
 ğŸ¦¾ Platfroms & Languages & Framework
 </br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=FFFFFF"/></a>
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-2396F3?style=flat-square&logo=iOS&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
