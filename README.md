@@ -16,11 +16,13 @@ But it's magical to be able to build something on a computer building app and ho
 </br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 </br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF"/></a>
 </br>
 </br>
 🛠️ Tools
 </br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VScode&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sourecetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
