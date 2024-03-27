@@ -2,9 +2,9 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
-## Who am I ?! 🚀
+## Who am I ?!
 </br>
-Day time dishwasher & night time developer 🧑🏻‍💻
+Day time dishwasher 🧼 & night time developer 🧑🏻‍💻
 </br>
 I enjoy create things.
 </br>
