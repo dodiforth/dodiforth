@@ -1,11 +1,6 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
-<a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
-## Who am I ?!
-Day time dishwasher 🧼 & night time developer 🧑🏻‍💻
-</br>
-I enjoy create things.
-</br>
-Interested in developing iOS native environment but also in Dart with Flutter 🕊️
+## 👋
+Hey, I'm Dowon Kim
+Day time dishwasher 🧼 & night time developer 🧑🏻‍💻 based in France
 
 🦾 Platfroms & Languages & Framework
 </br>
@@ -23,7 +18,10 @@ Interested in developing iOS native environment but also in Dart with Flutter �
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sourecetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iTerm2-06D6A9?style=flat-square&logo=iTerm2&logoColor=000000"/></a>
-
+</br>
+### CONTACT
+<a href="" target="_blank"><img src="https://img.shields.io/badge/dowoniscool@yahoo.com-6001D2?style=flat-square&logo=yahoo&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/dodinoyo150/" target="_blank"><img src="https://img.shields.io/badge/Dowon Kim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a>
 <!--
 **dodiforth/dodiforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
