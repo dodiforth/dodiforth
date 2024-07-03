@@ -7,14 +7,15 @@ I have honed my skills through continous learning and practical experience. I've
 Currently : Day time dishwasher 🧼 & Night time developer 🧑🏻‍💻
 Based in France 🇫🇷
 ```
-
-Tech Stack 🛠️ :
+Tech Stack 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=FFFFFF"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=FFFFFF"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=plastic&logo=Swift&logoColor=F05138"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-004466?style=plastic&logo=Swift&logoColor=1062FB"/></a>
-
-
+📫 You can reach me at [dowoniscool@yahoo.com](mailto:dowoniscool@yahoo.com). Let's collaborate and create something together!
+## Contact & Profiles 🌐:
+- **GitHub**: [github.com/dodiforth](https://github.com/dodiforth)
+- **LinkedIn**: [linkedin.com/in/dodinoyo150/](https://linkedin.com/in/dodinoyo150/)
 <!--
 **dodiforth/dodiforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
