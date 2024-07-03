@@ -6,13 +6,13 @@ I have honed my skills through continous learning and practical experience. I've
 Currently : Day time dishwasher 🧼 & Night time developer 🧑🏻‍💻
 Based in France 🇫🇷
 
-```
+
 Tech Stack 🛠️ :
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=FFFFFF"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=FFFFFF"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-004466?style=flat-square&logo=Swift&logoColor=1062FB"/></a>
-```
+
 
 <!--
 **dodiforth/dodiforth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
