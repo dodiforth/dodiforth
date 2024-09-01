@@ -15,7 +15,7 @@ for iOS Development 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=FFFFFF"/></a>
 
 for Full Stack Web Development 🛠️
-> <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.JS-000000?style=plastic&logo=nextdotjs&logoColor=FFFFFF"/></a>
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=FFFFFF"/></a>
 -----------
 📫 You can reach me at [dowoniscool@yahoo.com](mailto:dowoniscool@yahoo.com). Let's collaborate and create something together!
 ## Contact & Profiles 🌐:
