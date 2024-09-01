@@ -8,7 +8,7 @@ Currently : Day time dishwasher 🧼 & Night time developer 🧑🏻‍💻
 Based in France 🇫🇷
 ```
 Tech Stack 🛠️
-Mobile : 
+> Mobile : 
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=plastic&logo=Swift&logoColor=F05138"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-004466?style=plastic&logo=Swift&logoColor=1062FB"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/UIKit-2396F3?style=plastic&logo=UIKit&logoColor=1062FB"/></a>
