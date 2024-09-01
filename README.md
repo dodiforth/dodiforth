@@ -13,6 +13,7 @@ for iOS Development 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/UIKit-2396F3?style=plastic&logo=UIKit&logoColor=1062FB"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&logoColor=FFFFFF"/></a>
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=FFFFFF"/></a>
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=FFFFFF"/></a>
 
 for Full Stack Web Development 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=FFFFFF"/></a>
