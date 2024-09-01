@@ -17,6 +17,7 @@ for iOS Development 🛠️
 
 for Full Stack Web Development 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=FFFFFF"/></a>
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=plastic&logo=supabase&logoColor=FFFFFF"/></a>
 -----------
 📫 You can reach me at [dowoniscool@yahoo.com](mailto:dowoniscool@yahoo.com). Let's collaborate and create something together!
 ## Contact & Profiles 🌐:
