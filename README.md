@@ -4,8 +4,8 @@ I'm a self-taught, dedicated, and enthusiastic devloper with a passion for build
 With a background in iOS Development (I'm also a graduate of Swift Online Bootcamp as well) and a solid understanding of various programming languages and frameworks,
 I have honed my skills through continous learning and practical experience. I've showcased my skills through a range of coding projects you'll find in my repositories.
 ```
-Currently : Day time French-Korean interpreter at CDG ✈️ & Night time developer 🧑🏻‍💻
-Based in France 🇫🇷
+Currently : Day time French-Korean interpreter at CDG 🛫 & Night time developer 🧑🏻‍💻
+Based in Paris 🇫🇷
 ```
 for iOS Development 🛠️
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-FC8019?style=plastic&logo=Swift&logoColor=F05138"/></a>
